@@ -2,4 +2,4 @@
 
 ## Codegirlcollection
 
-![Codegirl](./image/codegirl.png)
+![Codegirl](./codegirlscollection/codegirl.png)
